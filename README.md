@@ -6,7 +6,7 @@ Welcome to Huobi Defi Wiki!
 
   <i class="fa fa-twitter" aria-hidden="true"></i> Twitter：[Huobi DefiLabs](https://twitter.com/HuobiGlobal)
 
-  <i class="fa fa-users" aria-hidden="true"></i> Email:       huobidefilabs@huobi.com
+  <i class="fa fa-users" aria-hidden="true"></i> Email:huobidefilabs@huobi.com
 
 
 ---
