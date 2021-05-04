@@ -8,7 +8,6 @@ Welcome to Huobi Defi Wiki!
 
   <i class="fa fa-users" aria-hidden="true"></i> Email: huobidefilabs@huobi.com
 
-;  <i class="fa fa-users" aria-hidden="true"></i> Telegram 公告群：[与Twitter同步所有信息推送](https://t.me/boomNotice)
 
 ---
 
