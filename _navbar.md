@@ -1,1 +1,1 @@
-<img src="img/logo/HuobiDeFiLabs_black.png" width="337.6" height="87.9">
+<img src="img/logo/HuobiDeFiLabs_black.png" width="168.8" height="43.95">
