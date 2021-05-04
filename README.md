@@ -1,5 +1,5 @@
-##  Huobi Defi Labs!
-Welcome to Huobi Defi Wiki!
+##  Huobi Defi Labs
+Welcome to Huobi Defi Wiki Center!
 ![](/img/huobi_map.png)
 
 **Contact us**
