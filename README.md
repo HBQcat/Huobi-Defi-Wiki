@@ -1,4 +1,4 @@
-##  Huobi Defi Labs![](/img/HuobiDeFiLabs_black.png)
+##  Huobi Defi Labs!
 Welcome to Huobi Defi Wiki!
 ![](/img/huobi_map.png)
 
