@@ -4,34 +4,34 @@
 
 - Derivatives
 
-  - [Perpetual]()
-  - [Deri]()
-  - [Derify]()
-  - [Lithium]()
-  - [Opium]()
-  - [Opyn]()
+  - [Perpetual](https://www.huobidefilabs.io/)
+  - [Deri](https://www.huobidefilabs.io/)
+  - [Derify](https://www.huobidefilabs.io/)
+  - [Lithium](https://www.huobidefilabs.io/)
+  - [Opium](https://www.huobidefilabs.io/)
+  - [Opyn](https://www.huobidefilabs.io/)
 
 - Market prediction
   
-  - [Gnosis]()
-  - [PolyMarket]()
-  - [PlotX]()
+  - [Gnosis](https://www.huobidefilabs.io/)
+  - [PolyMarket](https://www.huobidefilabs.io/)
+  - [PlotX](https://www.huobidefilabs.io/)
 
 - Oracle
 
-  - [ChainLink]()
-  - [Nest]()
+  - [ChainLink](https://www.huobidefilabs.io/)
+  - [Nest](https://www.huobidefilabs.io/)
  
 - DEX
 
-  - [UniSwap]()
-  - [SushiSwap]()
-  - [Balancer]()
-  - [Bancor]()
+  - [UniSwap](https://www.huobidefilabs.io/)
+  - [SushiSwap](https://www.huobidefilabs.io/)
+  - [Balancer](https://www.huobidefilabs.io/)
+  - [Bancor](https://www.huobidefilabs.io/)
  
 - Aggregation
 
-  - [Yearn Finance]()
-  - [RAY]()
+  - [Yearn Finance](https://www.huobidefilabs.io/)
+  - [RAY](https://www.huobidefilabs.io/)
 
 - Other Documents
