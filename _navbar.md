@@ -1,1 +1,1 @@
-![]{img/logo/HuobiDeFiLabs_black.png}
+![](img/logo/HuobiDeFiLabs_black.png)
