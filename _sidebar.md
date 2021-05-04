@@ -13,7 +13,28 @@
 
 - Market prediction
   
-  - [Gnosis]
+  - [Gnosis]()
+  - [PolyMarket]()
+  - [PlotX]()
+
+- Oracle
+
+  - [ChainLink]()
+  - [Nest]()
+ 
+- DEX
+
+  - [UniSwap]()
+  - [SushiSwap]()
+  - [Balancer]()
+  - [Bancor]()
+ 
+- Aggregation
+
+  - [Yearn Finance]()
+  - [RAY]()
+
+- Other Documents
 
 
 
