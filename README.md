@@ -4,9 +4,9 @@ Welcome to Huobi Defi Wiki!
 
 **Contact us**
 
-  <i class="fa fa-twitter" aria-hidden="true"></i> Twitter：[Follow us to get the latest info](https://twitter.com/HuobiGlobal)
+  <i class="fa fa-twitter" aria-hidden="true"></i> Twitter：[Huobi DefiLabs](https://twitter.com/HuobiGlobal)
 
-  <i class="fa fa-users" aria-hidden="true"></i> Email:   huobidefilabs@huobi.com
+  <i class="fa fa-users" aria-hidden="true"></i> Email:       huobidefilabs@huobi.com
 
 
 ---
